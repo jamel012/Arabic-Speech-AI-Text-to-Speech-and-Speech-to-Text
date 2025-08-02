@@ -100,4 +100,7 @@ Re‑run the cell, check that text isn’t empty, and make sure the environment 
 Unicode issues
 Save your script as UTF‑8 and put the text string directly in your code (Python 3 handles Arabic well).
 
+https://github.com/user-attachments/assets/29a06e33-15c5-4dfe-808b-3c45ca41e840
+
+
 <img width="1103" height="350" alt="image" src="https://github.com/user-attachments/assets/c89551e1-d0a5-4560-8bad-7b66337d3cfc" />
